@@ -29,3 +29,5 @@ Todo en tiempo real y sin manos.
 git clone https://github.com/tu-user/taskwhisper.git
 cd taskwhisper
 docker compose up --build
+```
+

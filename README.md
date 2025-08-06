@@ -29,3 +29,13 @@ Todo en tiempo real y sin manos.
 git clone https://github.com/tu-user/taskwhisper.git
 cd taskwhisper
 docker compose up --build
+```
+
+## ▶️ Ejecutar backend localmente
+
+Instala las dependencias y lanza el servidor de desarrollo:
+
+```bash
+pip install -r backend/requirements.txt
+uvicorn backend.app.main:app --reload
+```

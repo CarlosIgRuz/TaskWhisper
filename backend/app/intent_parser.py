@@ -1,3 +1,5 @@
+# Copyright (c) 2025 CarlosIgRuz. MIT License.
+
 """Simple intent parser for TaskWhisper."""
 
 from typing import Any, Dict

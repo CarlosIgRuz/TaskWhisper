@@ -1,2 +1,6 @@
+fastapi
+httpx
+uvicorn
 flake8
 pytest
+pytest-asyncio
